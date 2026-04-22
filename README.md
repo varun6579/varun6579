@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://myportfoliov.ccbp.tech/](https://myportfoliov.ccbp.tech/)
 
-- 💬 Ask me about **React,Javscript,Bootstrap**
+- 💬 Ask me about **Node,React,Javscript,Bootstrap**
 
 - 📫 How to reach me **varuntejbommeraboina@gmail.com**
 
