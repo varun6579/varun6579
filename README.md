@@ -7,7 +7,7 @@ Frontend Developer • AI Enthusiast • B.Tech CSE Student • Open Source Lear
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+%26+LLM+Enthusiast;React+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
-<a href='https://varun6579.github.io/varunportfolio/>Vist My Portfolio</a>
+
 ---
 
 ## 🚀 About Me
